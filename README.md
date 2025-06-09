@@ -1,4 +1,10 @@
 # Artist Search Pro (Web and Android)
+
+This project is available in multiple languages:
+
+- [English](README.md)
+- [简体中文](README.zh-CN.md)
+
 Artist Search Pro is an application that allows users to conveniently search for, favorite, and view artists. All visitors can access basic search and viewing features without creating an account. Advanced features—such as user authentication, similar artist recommendations, favoriting, and favorite collection management—are available only to registered users.
 
 Links to presentation videos:
