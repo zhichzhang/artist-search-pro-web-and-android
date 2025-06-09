@@ -5,6 +5,6 @@ Links to presentation videos:
 - [artist-search-pro-web-presentation.mp4](https://drive.google.com/file/d/1giQ1iq6p2AhoR6KgzVV4Tm__0PDhG_4u/view?usp=sharing)
 - [artist-search-pro-android-presentation.mp4](https://drive.google.com/file/d/1xBWYpmpEkb--CG6Ag7SgFY3RbjRUEzDk/view?usp=sharing)
 
-Links to the corresponding repositories: 
+Links to the corresponding repositories:
 - [Artist Search Pro (Web Application)](https://github.com/zhichzhang/artist-search-pro)
 - [Artist Search Pro (Android Application)](https://github.com/zhichzhang/artist-search-pro-android)
